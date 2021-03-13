@@ -10,7 +10,7 @@ function preload(){
 	lokiImage=loadImage("enemy2.gif")
 	scarlettewitchImage=loadImage("enemy3.gif")
 	gameOverimage=loadImage("gameover.gif")
-	restartImage=loadImage("restart.jpg")
+	restartImage=loadImage("Restart.jpg")
 
 }
 function setup(){
